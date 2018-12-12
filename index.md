@@ -1,91 +1,77 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Saulo Delfino Barboza's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Saulo Delfino Barboza
+Research felow at the Amsterdam Collaboration on Health & Safety in Sports
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="saulodbarboza@gmail.com">saulodbarboza@gmail.com</a>
+| <a href="osf.io/kdaqy">Open Science FrameworkF</a>
 </div>
 
 
-## Currently
+### Experienced in
 
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Surveillance & control injuries in sport/
+Physiotherapy/
+Open & reproducible research
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2014-2018`
+__PhD, VU University Medical Center, Amsterdam, The Netherlands__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`2012–2014`
+__MSc, Federal University of Uberlandia, Brazil__
 
-- Sizar
+`2011–2012`
+__PG, Federal University of Sao Paulo, Brazil__
 
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
+`2011–2012`
+__BSc, University of Ribeirao Preto, Brazil__
 
 
 ## Awards
 
 `2012`
-President, *Royal Society*, London, UK
+Associate, *National Society of Physiotherapy in Sport & Prhysical Activity*, Sao Paulo, Brazil
 
-Associate, *French Academy of Science*, Paris, France
 
+## Occupation
+
+`2015–Present`
+__Amsterdam Collaboration on Health & Safety in Sports__, The Netherlands
+
+`2014–2018`
+__Junior researcher__, VU University Medical Center, Amsterdam, The Netherlands
 
 
 ## Publications
 
 <!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
-### Journals
+### Peer-reviewed journals
 
-`1669`
+`2018`
 Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
 
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+`2018`
 
 
-## Occupation
+### Book
 
-`1600`
-__Royal Mint__, London
+`2018`
+**Delfino Barboza S.** Sports injuries – monitoring & prevention. ISBN: 978-90-5383-3537
 
-- Warden
-- Minted coins
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+
 
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: Dezember 2018 -->
 
 
