@@ -7,13 +7,12 @@ Research fellow at the Amsterdam Collaboration on Health & Safety in Sports
 
 <div id="webaddress">
 <a href="saulodbarboza@gmail.com">saulodbarboza@gmail.com</a>
-| <a href="http://twitter.com/saulodbarboza">Twitter</a>
 </div>
 
 
 ### Experienced in
 
-Surveillance & control injuries in sport | Physiotherapy | Open & reproducible research
+Surveillance & control injuries in sport; Physiotherapy; Open & reproducible research
 
 
 ## Education
