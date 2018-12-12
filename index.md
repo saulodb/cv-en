@@ -7,7 +7,6 @@ Research fellow at the Amsterdam Collaboration on Health & Safety in Sports
 
 <div id="webaddress">
 <a href="saulodbarboza@gmail.com">saulodbarboza@gmail.com</a>
-  | <li><a href="{{saulodbarboza@gmail.com}}/index.html"><i class='fa fa-home'></i> Home</a></li>
 </div>
 
 
