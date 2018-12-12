@@ -6,7 +6,7 @@ title: Saulo Delfino Barboza's CV
 Research fellow at the Amsterdam Collaboration on Health & Safety in Sports
 
 <div id="webaddress">
-<a href="saulodbarboza@gmail.com"><i class="far fa-envelope"></i></a>
+<a href="saulodbarboza@gmail.com"> <i class="far fa-envelope"></i></a>
 | <a href="osf.io/kdaqy">Open Science Framework</a>
 </div>
 
@@ -72,7 +72,7 @@ Vanin AA, Verhagen E, **Delfino Barboza S**, Costa LOP, Leal-Junior ECP. Photobi
 Pereira Silva Moreira VM, **Delfino Barboza S**, Oliveira JB, Pereira JM, Dionisio VC. A hiperalgesia secundária ocorre independentemente do envolvimento unilateral ou bilateral da osteoartrite de joelho em indivíduos com doença leve ou moderada. [Revista Brasileira de Reumatologia](https://doi.org/10.1016/j.rbr.2016.02.002)
 
 `2017`
-Pereira Silva Moreira VM, **Delfino Barboza S**, Borges Oliveira J, Moura Pereira J, Dionisio VC. Secondary hyperalgesia occurs regardless of unilateral or bilateral knee osteoarthritis involvement in individuals with mild or moderate level. [*Brazilian Journal of Rheumatology*](https://doi.org/10.1016/j.rbre.2016.03.014)
+Pereira Silva Moreira VM, **Delfino Barboza S**, Borges Oliveira J, Moura Pereira J, Dionisio VC. Secondary hyperalgesia occurs regardless of unilateral or bilateral knee osteoarthritis involvement in individuals with mild or moderate level. [Brazilian Journal of Rheumatology](https://doi.org/10.1016/j.rbre.2016.03.014)
 
 `2017`
 **Delfino Barboza S**, Bolling CS, Nauta J, Mechelen W van, Verhagen E. Acceptability and perceptions of end-users towards an online sports-health surveillance system. [BMJ Open Sport & Exercise Medicine](https://doi.org/10.1136/bmjsem-2017-000275)
