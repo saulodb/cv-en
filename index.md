@@ -5,7 +5,9 @@ title: Saulo Delfino Barboza's CV
 # Saulo Delfino Barboza
 Research fellow at the Amsterdam Collaboration on Health & Safety in Sports
 
-
+<div id="webaddress">
+<a href="saulodbarboza@gmail.com">saulodbarboza@gmail.com</a>
+</div>
 
 
 ### Experienced in
